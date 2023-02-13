@@ -1,0 +1,13 @@
+FTP account: E22007
+
+Level: A
+cycle： 448028
+Synthesis area： 8658.437357
+
+--- RTL category---
+HDL simulator : ncverilog
+RTL filename : JAM.v
+--- Pre-layout gate-level ---
+
+gate_level filename: JAM_syn.v
+gate-level sdf filename: JAM_syn.sdf
